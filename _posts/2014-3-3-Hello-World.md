@@ -1,7 +1,4 @@
----
-layout: post
-title: First time here? Great, welcome!! Visiting again?? That's awesome!!
----:D
+vehdbADKLN
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
