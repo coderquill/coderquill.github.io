@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Some information about you!
+HI am rupali
 
 ### More Information
 
