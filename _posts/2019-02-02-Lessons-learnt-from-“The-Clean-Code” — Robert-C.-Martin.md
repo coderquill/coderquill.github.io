@@ -1,5 +1,4 @@
 
-# Lessons learnt from “The Clean Code” — Robert C. Martin
 <img src="https://systemscue.it/wp-content/uploads/2018/11/1-nWkAm-cuh_XSUdH-rSic8g-1.jpeg"
 width="1000" height="400"/>
 
