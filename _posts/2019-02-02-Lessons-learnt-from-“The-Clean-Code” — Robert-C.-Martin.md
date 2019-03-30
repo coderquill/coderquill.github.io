@@ -2,7 +2,7 @@
 <img src="https://systemscue.it/wp-content/uploads/2018/11/1-nWkAm-cuh_XSUdH-rSic8g-1.jpeg"
 width="1000" height="400"/>
 
-I recently read my Clean Code, the famous book by the prolific Uncle bob martin and it was one of the eye opening experiences of my life as a programmer. This book has given me a lot of knowledge on what are the best practises and how to actually write code. Now I feel ashamed of my coding skills. Though I always strive to better my code, this book has taught a lot more.
+I recently read Clean Code, the famous book by the prolific Uncle bob martin and it was one of the eye opening experiences of my life as a programmer. This book has given me a lot of knowledge on what are the best practises and how to actually write code. Now I feel ashamed of my coding skills. Though I always strive to better my code, this book has taught a lot more.
 
 Now, you are reading this blog for two reasons. First, you are a programmer. Second, you want to be a better programmer. Good. We need better programmers.
 
@@ -22,19 +22,19 @@ Imagine being in a record store, and you are looking for some albums. If the sto
 >“There are only two hard things in Computer Science: cache invalidation and naming things” — Phil Karlton
 <p>   Everything in an application has a name, from variables, functions, arguments, classes, modules, to packages, source file, directories.
 
-Naming things is the most common problem of every developer. A good name will make understanding the code much easier. Uncle Bob has shared some simple rules to create good names:
+Naming things is the most common problem of every developer. A good name will make understanding the code much easier. Uncle Bob has shared some simple rules to create good names:</p>
 ### Do's:
 <b>Use intention-revealing Names</b>
-<p>The name should tell you why it exists, what it does, and how it is used. If a name requires a comment, it is a bad name. 
-var a = 0 # the name a reveals nothing : bad .
-var age = 0; # : good
+<p>The name should tell you why it exists, what it does, and how it is used. If a name requires a comment, it is a bad name.</p> 
+<p>var a = 0 # the name a reveals nothing : bad .</p>
+<p>var age = 0; # : good</p>
 </p>
 
 <b>Use Pronounceable Names</b>
 <p>Humans are good at words and words are, by definition, pronounceable.
 If you can’t pronounce it, you can’t discuss it without sounding like an idiot. This matters because programming is a social activity.
-  edvbn = circle.radius # : bad
-  circle_radius = circle.radius # : good
+  <p>edvbn = circle.radius  : bad</p>
+  <p>circle_radius = circle.radius  : good</p>
  </p>
  
 <b>Class Names</b>
@@ -77,16 +77,19 @@ A Function should do one thing only and do it really well
 ## Unit Tests
  > “Code, without tests, is not clean. No matter how elegant it is, no matter how readable and accessible, if it hath not tests, it be unclean. Dave” ― Robert C. Martin
 <p>The Test Driven Development (TDD): It is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved to pass the new tests, only.</p>
-
+<p>
+  <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsRQvxFpUqCEmbrb5dWOCMuet2WznVWyXI8SpNQ8SCZRotPKw"/>
+ 
 Uncle Bob describes TDD with 3 laws:
 
 * First Law: You may not write production code until you have written a failing unit test.
 * Second Law: You may not write more of a unit test than is sufficient to fail, and not compiling is failing.
 * Third Law: You may not write more production code than is sufficient to pass the currently failing test.
-
+</p>
+<p>
 So folks, that's it. This surely does not include all the details of clean code but it can help you get basics of clean code right. We also have many tools available to help writing clean code. I will be introducing them in my upcoming blog-posts.
 Till then, happy clean-coding!
-
+</p>
 
 
 
