@@ -35,7 +35,7 @@ Naming things is the most common problem of every developer. A good name will ma
 If you can’t pronounce it, you can’t discuss it without sounding like an idiot. This matters because programming is a social activity.
   <p>edvbn = circle.radius  : bad</p>
   <p>circle_radius = circle.radius  : good</p>
- </p>
+ 
  
 <b>Class Names</b>
 <p>Classes and objects should have noun or noun phrase names like Customer, WikiPage, Account, and AddressParser. Avoid words like Manager, Processor, Data, or Info in the name of a class.
@@ -78,7 +78,7 @@ A Function should do one thing only and do it really well
  > “Code, without tests, is not clean. No matter how elegant it is, no matter how readable and accessible, if it hath not tests, it be unclean. Dave” ― Robert C. Martin
 <p>The Test Driven Development (TDD): It is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved to pass the new tests, only.</p>
 <p>
-  <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsRQvxFpUqCEmbrb5dWOCMuet2WznVWyXI8SpNQ8SCZRotPKw"/>
+  <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsRQvxFpUqCEmbrb5dWOCMuet2WznVWyXI8SpNQ8SCZRotPKw" width = "400" />
  
 Uncle Bob describes TDD with 3 laws:
 
