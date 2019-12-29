@@ -7,7 +7,7 @@ I recently read Clean Code, the famous book by the prolific Uncle bob martin and
 Now, you are reading this blog for two reasons. First, you are a programmer. Second, you want to be a better programmer. Good. We need better programmers.
 
 ## What is Clean Code, anyway?
-<img src="https://i.pinimg.com/564x/f4/21/90/f421909319acd7e1e89720a6140c4820.jpg" width="400" height="400">
+<img src="https://i.pinimg.com/564x/f4/21/90/f421909319acd7e1e89720a6140c4820.jpg" width="50" height="50">
 Imagine being in a record store, and you are looking for some albums. If the store sorted and categorized their albums, you will find your albums faster. In addition, the cool interior design & architecture will make the whole experience much comfortable. Clean code is like that well organised, sophisticated record store.
 
 <p>    There are two types of programming. Good programming and bad programming. Even bad code works. But it is not enough for code to work. It should be understandable at once, readable and scalable. It should not make other developers scratch their head in frustation! So how do we achieve it? The following way :</p>
