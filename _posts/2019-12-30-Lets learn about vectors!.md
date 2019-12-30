@@ -4,7 +4,7 @@ So, lets learn about vectors, shall we?
     Then why study vector and not just use arrays all the times?
     Because in the situation where you might not know the exact size of the array and you need to constantly add/remove its elements then we need to prefer vector.
     
-     So in what other ways are vectors different from arrays?
+   So in what other ways are vectors different from arrays?
      
 
 <style>
