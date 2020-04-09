@@ -3,12 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Coderquill
+name: Rupali Kavale
 
 # Short bio or description (displayed in the header)
-description: 
-  Welcome to Rupali's world. She is forever learning programming and wants to do wonders in it. Loves dancing, reading and sleeping. Can discuss Anything and Everything(Politics, Geography, Ramayan- Mahabharat, Kpop.... you get the idea!). She promises she doesn't bite.  
-
+description: A dancer who codes.
+  
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://wallpapersite.com/images/pages/pic_w/10672.jpg
 
@@ -23,7 +22,7 @@ footer-links:
   facebook: smart1Rupa
   flickr:
   github: coderquill
-  instagram: rupali_kavale
+  instagram: rupali.kavale
   linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
