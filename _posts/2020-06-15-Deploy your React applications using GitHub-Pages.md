@@ -1,4 +1,3 @@
-# 
 <img  width="700" height="500" alt="github pages" src="https://user-images.githubusercontent.com/30548190/88172166-29d3b380-cc3e-11ea-816f-73fbee51d467.jpeg">
 <hr>
 
@@ -45,7 +44,7 @@ Create React App uses the homepage field to determine the root URL in the built 
 +   "predeploy": "npm run build",
 +   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build" 
 ```
     
 The predeploy script will run automatically before deploy is run.
