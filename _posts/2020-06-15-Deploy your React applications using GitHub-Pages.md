@@ -1,5 +1,4 @@
-
-
+# Deploy your React applications using GitHub-Pages
 <img  width="700" height="500" alt="github pages" src="https://user-images.githubusercontent.com/30548190/88172166-29d3b380-cc3e-11ea-816f-73fbee51d467.jpeg">
 <hr>
 
@@ -31,7 +30,7 @@ Create React App uses the homepage field to determine the root URL in the built 
 
 
 ## Step 2: Install gh-pages and add deploy to scripts in package.json
-<ul>
+
 <li>To publish it at https://myusername.github.io/my-app, run:</li>
 
 ```npm install --save gh-pages```
@@ -60,7 +59,7 @@ Modify your package.json scripts to push deployments to master:</li>
 -   "deploy": "gh-pages -d build",
 +   "deploy": "gh-pages -b master -d build"
 ```
-</ul>
+
 <hr>
 
 
@@ -74,10 +73,10 @@ Modify your package.json scripts to push deployments to master:</li>
 
 
 ## Step 4: For a project page, ensure your project’s settings use gh-pages
-<ul>
+
 <li>Finally, make sure GitHub Pages option in your GitHub project settings is set to use the gh-pages branch</li>
 <img align = 'center' width="516" alt="github pages enabling" src="https://user-images.githubusercontent.com/30548190/88172305-669faa80-cc3e-11ea-9608-f609fc467493.png">
-  </ul>
+
 
 And tadaa! :tada:  You have published your application successfully. 
 <p>It might take some time to actually be available but you have done your part.:metal: Give yourself a high five!!</p>
