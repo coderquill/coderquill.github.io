@@ -1,6 +1,6 @@
 
 
-<img  width="800" height="516" alt="github pages" src="https://user-images.githubusercontent.com/30548190/88172166-29d3b380-cc3e-11ea-816f-73fbee51d467.jpeg">
+<img  width="700" height="500" alt="github pages" src="https://user-images.githubusercontent.com/30548190/88172166-29d3b380-cc3e-11ea-816f-73fbee51d467.jpeg">
 <hr>
 
 <p>So, You have built a React app. </p>
@@ -9,10 +9,10 @@
 
 ## Step 1: Add homepage to package.json
 This is a very important step. DONT skip it.
-<ul>
+
 <li> Open your package.json and add a homepage field for your project:
 for example: </li>
-    
+
 ```"homepage": "https://myusername.github.io/my-app"```
 
 <li> for a GitHub user page:</li>
@@ -23,7 +23,7 @@ for example: </li>
 
 ```"homepage": "https://mywebsite.com"```
 
-</ul>
+
 
 Create React App uses the homepage field to determine the root URL in the built HTML file.
 
@@ -65,14 +65,11 @@ Modify your package.json scripts to push deployments to master:</li>
 
 
 ## Step 3: Deploy the site by running npm run deploy
-<ul>
+
 <li>Then run:</li>
     
-```npm run deploy
-```
+```npm run deploy```
 
- </ul>
- 
 <hr>
 
 
