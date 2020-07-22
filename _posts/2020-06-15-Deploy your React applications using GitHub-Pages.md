@@ -1,4 +1,4 @@
-# Deploy your React applications using GitHub-Pages
+# 
 <img  width="700" height="500" alt="github pages" src="https://user-images.githubusercontent.com/30548190/88172166-29d3b380-cc3e-11ea-816f-73fbee51d467.jpeg">
 <hr>
 
