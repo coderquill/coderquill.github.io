@@ -30,7 +30,7 @@ Create React App uses the homepage field to determine the root URL in the built 
 
 ## Step 2: Install gh-pages and add deploy to scripts in package.json
 
-<li>To publish it at https://myusername.github.io/my-app, run:</li>
+<li>To publish it at homepage, run:</li>
 
 ```npm install --save gh-pages```
 
@@ -40,7 +40,7 @@ Create React App uses the homepage field to determine the root URL in the built 
 
 <li>Now, add the following scripts in your package.json:</li>
 
-```"scripts": {
+``` 
 +   "predeploy": "npm run build",
 +   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
@@ -53,10 +53,11 @@ The predeploy script will run automatically before deploy is run.
 
 Modify your package.json scripts to push deployments to master:</li>
 
-```"scripts": {
+``` 
     "predeploy": "npm run build",
 -   "deploy": "gh-pages -d build",
 +   "deploy": "gh-pages -b master -d build"
+
 ```
 
 <hr>
