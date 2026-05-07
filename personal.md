@@ -4,7 +4,7 @@ title: Personal Journey So Far
 permalink: /personal/
 ---
 
-I was born in mid-June 1999 in a small town in India. I started walking and talking at a really young age. Apparently, by 1.5 years old, I was a fully functioning baby — a record my niece would later break. For many kids, it's their parents who teach them these foundational skills. For me, it was my brother. He taught me how to walk and talk. Essentially, I was my sibling's toy! We hail from a large family, and growing up with them was truly a joy. I took full advantage of being the youngest, and they completely indulged me. They still do!
+I was born in mid-June few decades back** in a small town in India. I started walking and talking at a really young age. Apparently, by 1.5 years old, I was a fully functioning baby — a record my niece would later break. For many kids, it's their parents who teach them these foundational skills. For me, it was my brother. He taught me how to walk and talk. Essentially, I was my sibling's toy! We hail from a large family, and growing up with them was truly a joy. I took full advantage of being the youngest, and they completely indulged me. They still do!
 
 At the age of 3, I began attending school and was directly enrolled in the first grade. While most kids in the class were just starting with basic reading and writing, my brother, who must've been 11 years old at the time, began teaching me to read Marathi at home. Before long, we had covered the basics. Next, he introduced me to English. What astounds me still - he is a genius - is his innovative approach; he taught me English by drawing phonetic comparisons between English and Marathi. I'm not sure how he conceived of this idea, but it was brilliant, and it worked. As a result, I began reading and writing in English almost simultaneously with Marathi. I believe this experience sowed the seeds of my lifelong fascination with languages. Once we covered languages, we delved into basic mathematics. I quickly grasped it and moved on to multiplication tables. I tackled one table per day, and in no time, I'd mastered content up to the 3rd grade level. That meant, now I had all the time in the world to get hobbies, and I did. 
 
@@ -25,5 +25,6 @@ I am a practicing Hindu. My father - almost an atheist, and my mother is a devot
 Through this blog, I just want to put my thoughts out there, because I have many. I am always looking forward to having conversations with people. I love talking! Please feel free to contact me about anything on this page, if it resonated with you. I look forward to it. Thanks for reading :)
 
 ### Contact me
+** Made some updates in the blog as someone reached out to my parents to verify lol
 
 [rkavale@andrew.cmu.edu](mailto:email@domain.com)
